@@ -6,7 +6,7 @@
     (property "Value" "XIAO ESP32C3" (at 7.62 -19.05 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "113991054:MODULE_113991054" (at 1.27 21.59 0)
+    (property "Footprint" "Module:XIAO_ESP32C3" (at 1.27 21.59 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf" (at 0 -31.75 0)
@@ -17,6 +17,9 @@
     )
     (property "MANUFACTURER" "Seeed Technology" (at 1.27 24.13 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "ki_keywords" "ESP32 C3 XIAO" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "XIAO ESP32C3_0_0"
       (rectangle (start -12.7 15.24) (end 12.7 -15.24)
